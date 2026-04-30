@@ -1,2 +1,2 @@
 # BMICalculatorNew.java
-This is my own version of a BMI calculator where you are given a small piece of advice and also your calories and macros are calculated.
+This is my demo version of a BMI calculator where you are given a bmi calculation, small piece of advice, your calories calculation and macros are calculated.
